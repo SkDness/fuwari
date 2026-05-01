@@ -7,7 +7,7 @@ category: Examples
 draft: false
 ---
 
-颂平常心是道  
+## 颂平常心是道  
 无门慧开禅师〔宋代〕  
 
 春有百花秋有月，夏有凉风冬有雪。  
