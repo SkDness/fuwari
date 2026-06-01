@@ -2,8 +2,8 @@
 title: 颂平常心是道
 published: 2026-04-30
 description: 偶尔看到的诗词，随手收藏。
-tags: [Video]
-category: Examples
+tags: [诗歌]
+category: 文字
 draft: false
 ---
 
