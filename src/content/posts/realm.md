@@ -1,6 +1,6 @@
 ---
 title: Realm流量转发安装教程
-published: 2026-05-01
+published: 2026-06-01
 description: 流量转发，一看就会
 tags: [网络]
 category: 教程
