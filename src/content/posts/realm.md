@@ -77,7 +77,7 @@ systemctl enable --now realm
 ```bash
 systemctl status realm
 ```
-> 重要提醒（放行防火墙）： > 很多服务商（如甲骨文、外包 VPS）有系统防火墙，请务必在节点 A 上放行你监听的端口（如 54321）的 TCP 和 UDP 流量。如果是用 ufw，运行：
+> 重要提醒（放行防火墙):很多服务商（如甲骨文、外包 VPS）有系统防火墙，请务必在节点 A 上放行你监听的端口（如 54321）的 TCP 和 UDP 流量。如果是用 ufw，运行：
 ```bash
 ufw allow 54321
 ```
