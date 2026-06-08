@@ -11,7 +11,7 @@ draft: false
 
 
 
-> 直接复制就能用的完整配置方案，按步骤填就行，在 Cloudflare Pages 测试部署成功。
+> 直接复制就能用的完整配置方案，按步骤填就行，在 Cloudflare Pages 已测试部署成功。
 
 ---
 
