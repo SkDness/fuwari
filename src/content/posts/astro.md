@@ -1,5 +1,5 @@
 ---
-title: 使用Fuwaru主题部署Astro博客
+title: 使用Fuwari主题部署Astro博客
 published: 2026-06-09
 description: Astro博客搭建，并使用Fuwari主题
 tags: [博客]
@@ -7,7 +7,7 @@ category: 教程
 draft: false
 ---
 
-# 使用Fuwaru主题部署Astro博客
+# 使用Fuwari主题部署Astro博客
 
 
 
