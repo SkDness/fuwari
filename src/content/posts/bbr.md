@@ -9,8 +9,10 @@ draft: false
 
 1.开启
 ```bash
-echo "net.core.default_qdisc=fq" | sudo tee -a /etc/sysctl.conf
-echo "net.ipv4.tcp_congestion_control=bbr" | sudo tee -a /etc/sysctl.conf
+cat >> /etc/sysctl.conf << EOF
+net.core.default_qdisc=fq
+net.ipv4.tcp_congestion_control=bbr
+EOF
 ```
 2.生效
 ```bash
